@@ -6,7 +6,7 @@ $ git clone https://github.com/Resongeo/SvelteElectronTemplate
 ```
 ### Go into cloned directory
 ``` bash
-$ cd SvelteElectronTest
+$ cd SvelteElectronTemplate
 ```
 ### Install dependencies
 ``` bash
